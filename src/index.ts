@@ -1,3 +1,3 @@
-import MyCounter from './components/App'
-
-export { MyCounter }
+import useMultiStepForm from "./hooks/UseMultiStepForm"
+import Pagination from "./hooks/UsePagination"
+export { Pagination, useMultiStepForm }
